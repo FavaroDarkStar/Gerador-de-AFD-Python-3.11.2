@@ -2,8 +2,8 @@ import headerFotterGenerico, tipo3
 from datetime import datetime
 # Variáveis iniciais para linhas do tipo 3 marcação de ponto
 nsr = 1  #NSR inicial
-datainicio = "01082023" #data inicial
-datafim = "20082023" #data fim
+datainicio = "01072023" #data inicial
+datafim = "31072023" #data fim
 horarios = ["0800","1200","1300","1800"] #horarios das marcações base
 pis = ["026009874490", "095889634951"] #pis dos funcionarios
 crc = "BDCE" #crc aleatorio até onde sei o sistema não valida isso mas qualquer coisa da para fazer uma função para gerar o valor e colocar dentro da funcao geraMarcacoes no arquivo tipo3.py
